@@ -165,7 +165,7 @@
                 </table>
 
                 <div id="registry-box">
-                <a href="index.php">
+                <a href="atividade1.php">
                     Inserir mais dados
                 </a>
                 </div>
