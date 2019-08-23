@@ -41,7 +41,7 @@
                 </h1>
 
                 <p class="answer-content-p-box">
-                    <a href="index.php">
+                    <a href="atividade1perg.php">
                         Inserir outros dados
                     </a>
 
